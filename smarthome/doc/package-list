@@ -1,0 +1,17 @@
+com.homecoo.smarthome.cache
+com.homecoo.smarthome.cache.impl
+com.homecoo.smarthome.controller
+com.homecoo.smarthome.domain
+com.homecoo.smarthome.persistence
+com.homecoo.smarthome.schedule.exception
+com.homecoo.smarthome.schedule.timer
+com.homecoo.smarthome.schedule.work
+com.homecoo.smarthome.schedule.work.factory
+com.homecoo.smarthome.schedule.work.impl
+com.homecoo.smarthome.service
+com.homecoo.smarthome.service.impl
+com.homecoo.smarthome.test
+com.homecoo.smarthome.trigger
+com.homecoo.smarthome.util
+com.homecoo.smarthome.util.unused
+com.homecoo.smarthome.util.ym
